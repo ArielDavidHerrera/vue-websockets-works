@@ -9,7 +9,12 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^3.0.0-0"
+    "jquery": "^3.5.1",
+    "socket.io": "^2.3.0",
+    "socket.io-client": "^2.3.0",
+    "vue": "^3.0.0-0",
+    "vue-socket.io": "^3.0.10",
+    "yarn": "^1.22.5"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
